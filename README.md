@@ -7,5 +7,5 @@
 
 ## My Github Stats
 
-[![neotheicebird's github stats](https://github-readme-stats.vercel.app/api?username=neotheicebird)](https://github.com/anuraghazra/github-readme-stats)
+[![neotheicebird's github stats](https://github-readme-stats.vercel.app/api?username=neotheicebird)](https://github.com/neotheicebird/github-readme-stats)
 
