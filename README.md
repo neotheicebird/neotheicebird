@@ -9,3 +9,5 @@
 
 [![neotheicebird's github stats](https://github-readme-stats.vercel.app/api?username=neotheicebird&count_private=true&show_icons=true)](https://github.com/neotheicebird/github-readme-stats)
 
+![codewars_badge](https://www.codewars.com/users/neotheicebird/badges/large)
+
