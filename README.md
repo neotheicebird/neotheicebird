@@ -13,5 +13,5 @@
 
 Codewars:
 
-![codewars_badge](https://www.codewars.com/users/neotheicebird/badges/large)
+[![codewars_badge](https://www.codewars.com/users/neotheicebird/badges/large)](https://www.codewars.com/users/neotheicebird)
 
