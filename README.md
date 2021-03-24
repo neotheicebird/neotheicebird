@@ -1,3 +1,5 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=neotheicebird)
+
 ### Hi there, I am Prashanth 👋
 
 - 🔭 I’m currently working on building serverless apps
@@ -8,10 +10,6 @@
 ## My Github Stats
 
 [![neotheicebird's github stats](https://github-readme-stats.vercel.app/api?username=neotheicebird&count_private=true&show_icons=true)](https://github.com/neotheicebird/github-readme-stats)
-
-## Profile View Counter
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=neotheicebird)
 
 ## Badges
 
